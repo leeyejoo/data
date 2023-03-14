@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "title": "There are many variations of passages",
+    "article": "of Lorem Ipsum available, but the majority have suffered alteration... ",
+    "date": 20220302
+  },
+  {
+    "id": 1,
+    "title": "in some form, by injected humour",
+    "article": "or randomised words which don't look even slightly believable...",
+    "date": 20220302
+  },
+  {
+    "id": 2,
+    "title": "If you are going to use",
+    "article": "a passage of Lorem Ipsum, you need to be sure there isn't anything ...",
+    "date": 20220302
+  },
+  {
+    "id": 3,
+    "title": "embarrassing hidden ",
+    "article": "in the middle of text. All the Lorem Ipsum generators on the Internet...",
+    "date": 20220302
+  },
+  {
+    "id": 4,
+    "title": "tend to repeat predefined",
+    "article": "chunks as necessary, making this the first true generator on the Internet...",
+    "date": 20220302
+  }
+]
